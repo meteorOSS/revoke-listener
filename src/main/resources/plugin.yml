@@ -1,0 +1,6 @@
+name: 'RevokeListener'
+main: com.meteor.revoke.RevokeListener
+version: 1.0
+authors:
+  - 'meteor'
+description: '监听消息撤回'

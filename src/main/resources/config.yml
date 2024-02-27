@@ -1,0 +1,4 @@
+message:
+  TextMsg: '{nick_name} 撤回了消息: {content}'
+  VideoMsg: '{nick_name} 撤回了一条视频消息: '
+  ImageMsg: '{nick_name} 撤回了一条图片消息: '
